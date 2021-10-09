@@ -7,3 +7,4 @@ print(2a+b)
 d=30
 c=40
 print(c+d)
+print("10")
